@@ -1,6 +1,6 @@
 PYTHON EXPLANATION TO:
 MANAGE.PY
-1.	The shebang line #!/usr/bin/env python indicates that the script should be executed using the Python interpreter.
+1.	The line #!/usr/bin/env python indicates that the script should be executed using the Python interpreter.
 2.	The script imports necessary modules:
 •	os: Provides a portable way to interact with the operating system.
 •	sys: Provides access to some variables used or maintained by the Python interpreter.
